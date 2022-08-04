@@ -1,2 +1,2 @@
 # homebrew-obbkit
-homebrew tap
+homebrew tap for my projects
